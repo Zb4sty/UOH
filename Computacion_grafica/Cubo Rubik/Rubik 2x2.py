@@ -1,8 +1,3 @@
-"""
-Bonus: Agregar algún widget no visto en cátedra ni en las ayudantías
-Código hecho por Bastián Rubio Moya
-"""
-
 import sys
 from PyQt5 import QtGui, QtWidgets, uic
 from PyQt5.QtCore import pyqtSlot, Qt
