@@ -11,8 +11,6 @@ Importe el Qt con pyuic5 -x interfaz.ui -o main.py
 Al momento de comenzar se demora entre 1-5 segundos en comenzar.
 Cuando se coloca en la escala de grises, se demora debido a que, toma fotograma a fotograma.
 
-Para el bonus, elegimos  -> Habilitar/Deshabilitar widgets de acuerdo al funcionamiento del programa.
-
 """
 
 from pyqtgraph import GraphicsLayoutWidget
