@@ -1,11 +1,6 @@
 """
 Mini Read-Me: Hay veces que se pega, pero es por la cantidad de procesos que realiza, adjuntaré un video con el funcionamiento del programa
 para que vean que si funciona y cumple con lo solicitado.
-Código creado por : Bastián Rubio
-Bonus: Incorporar alguna mejora o nueva funcionalidad al juego actual
-
-La Funcionalidad que incorporé fueron el total de jugadas que se realizaron
-
 """
 
 import sys
