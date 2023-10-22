@@ -12,3 +12,5 @@ Se analizará los efectos de cambiar el tamaño de la red (número de capas ocul
 capas) y la función de activación.
 
 Subí dos archivos, utilizar el que más le acomode.
+
+Además subí los dataset al repositorio, basta con cambiar la URL en !wget
