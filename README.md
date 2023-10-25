@@ -15,3 +15,5 @@ Works realized at university
 
 [Neural Networks](https://github.com/Zb4sty/UOH/tree/main/Introducci%C3%B3n%20a%20la%20Inteligencia%20Artificial/Redes%20Neuronales)
 
+[Convolutional Neural Networks] (https://github.com/Zb4sty/UOH/tree/main/Introducci%C3%B3n%20a%20la%20Inteligencia%20Artificial/Redes%20Neuronales%20Convolucionales)
+
