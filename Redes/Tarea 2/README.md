@@ -15,13 +15,19 @@ Guía de comandos implementados:
 • :angry Envía la carita enojada >:( a los demás usuarios conectados. <br>
 • :combito Envía un emoticón bélico Q(’- ’Q) a los demás usuarios conectados. <br>
 • :larva Envía una Larva (:o)OOOooo a los demás usuarios conectados. <br>
-• :artefactos Entrega una lista de los artefactos que el usuario tiene en su cuenta. Esta información sólo es visible por quien envía el comando. <br>
-• :artefacto <ArtefactoId> Obtiene el nombre del artefacto identificado por ArtefactoId. <br>
-      Ejemplo, :artefacto 22 es respondido por el servidor con Trocitos de cristal.  <br>
-      (Esta información sólo es visible por quien envía el comando.) <br>
-• :offer <Identificador> <MiArtefactoId> <SuArtefactoId> Este comando inicia un intercambio con el usuario <Identificador>. A este usuario se le ofrece <MiArtefactoId> a cambio de <SuArtefactoId>.  <br>
-      Ejemplo, :offer Gus 32 12 equivale a querer intercambiar una Espuela prehistórica por el Disco raro de Gus. <br>
-• :accept Acepta la oferta recibida y realiza el intercambio de artefactos, actualizando las listas de artefactos de cada usuario involucrado. En ambos chats se muestra ¡Intercambio realizado! <br>
-• :reject Rechaza la oferta. En ambos chats involucrados se muestra Intercambio rechazado. <br>
+• **:artefactos**
+  - Entrega una lista de los artefactos que el usuario tiene en su cuenta. Esta información solo es visible para quien envía el comando.
+
+• **:artefacto ArtefactoId**
+  - Obtiene el nombre del artefacto identificado por ArtefactoId. Ejemplo, `:artefacto 22` es respondido por el servidor con Trocitos de cristal. (Esta información solo es visible para quien envía el comando.)
+
+• **:offer UsuarioOferta CantidadOferta UsuarioDeseado CantidadDeseada**
+  - Este comando inicia un intercambio con el usuario. A este usuario se le ofrece CantidadOferta de un artefacto a cambio de CantidadDeseada de otro. Ejemplo, `:offer Gus 32 12` equivale a querer intercambiar una Espuela prehistórica por el Disco raro de Gus.
+
+• **:accept**
+  - Acepta la oferta recibida y realiza el intercambio de artefactos, actualizando las listas de artefactos de cada usuario involucrado. En ambos chats se muestra ¡Intercambio realizado!
+
+• **:reject**
+  - Rechaza la oferta. En ambos chats involucrados se muestra Intercambio rechazado.
 
 El listado de objetos disponibles se encuentra en  artefactos.JSON
