@@ -8,8 +8,8 @@ Guía de comandos implementados:
 
 • :q Permite que el usuario se desconecte del chat.<br>
 • :p <Identificador> <Mensaje> Envía un mensaje privado al usuario. Este mensaje sólo debe ser recibido por este usuario, y desplegado en su chat.<br>
-&nbsp;Ejemplo, :p nombre_granjero_conectado mensaje  <br>
-&nbsp;&nbsp;   :p fulanito Hola, Como estas?         <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ejemplo, :p nombre_granjero_conectado mensaje  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;   :p fulanito Hola, Como estas?         <br> 
 • :u Muestra los usuarios que se encuentran conectados actualmente al chat. <br>
 • :smile Envía la carita feliz :) a los demás usuarios conectados. <br>
 • :angry Envía la carita enojada >:( a los demás usuarios conectados. <br>
