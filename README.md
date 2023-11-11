@@ -1,6 +1,16 @@
 # UOH
 Works realized at university
 
+## Importante
+
+Este repositorio tiene como objetivo servir como recurso para las entregas de diversas tareas correspondientes a los cursos mencionados, los cuales son impartidos en la Universidad de O'Higgins.
+
+Cualquier intento de copia por parte de terceros será exclusivamente responsabilidad de dichos terceros, teniendo en cuenta que GitHub es un sitio público donde cualquier persona puede acceder a repositorios públicos. Me desvinculo de cualquier problema futuro relacionado con este contexto y quiero dejar claro que no fomentaré de ninguna manera la copia del contenido.
+
+Cualquier consulta relacionada con el estudio de esta tarea, y únicamente de esta tarea, será atendida adecuadamente.
+
+Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en caso de que esté mal realizada, contenga errores o pueda optimizarse.
+
 ### Computer graphics
 
 [Rubik cube](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Cubo%20Rubik)
