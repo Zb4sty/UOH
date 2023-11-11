@@ -1,6 +1,6 @@
-Un chat online es un método de comunicación digital vía Internet que realiza intercambio de mensajes de forma instantánea, enviando mensajes de texto entre un emisor a un receptor, generalmente
+Un chat online es un método de comunicación digital vía Internet que realiza intercambio de mensajes de forma instantánea, enviando mensajes de texto entre un emisor a un receptor, generalmente
 mediante un servidor. Es quizá la aplicación más conocida de los sockets TCP/IP.
-El objetivo de esta tarea es que  implementen un chat para granjeros de Stardew Fridi a trav´es del cual, adem´as de poder conversar, se puedan intercambiar artefactos coleccionables, 
+El objetivo de esta tarea es implementar un chat para granjeros de Stardew Fridi a través del cual, además de poder conversar, se puedan intercambiar artefactos coleccionables, 
 así como consultar los artefactos que cada granjerx tiene. Este chat debe seguir la arquitectura cliente-servidor
 
 
@@ -8,8 +8,8 @@ Guía de comandos implementados:
 
 • :q Permite que el usuario se desconecte del chat.<br>
 • :p <Identificador> <Mensaje> Envía un mensaje privado al usuario. Este mensaje sólo debe ser recibido por este usuario, y desplegado en su chat.<br>
-      Ejemplo, :p nombre_granjero_conectado mensaje  <br>
-               :p fulanito Hola, Como estas?         <br> 
+&nbsp;Ejemplo, :p nombre_granjero_conectado mensaje  <br>
+&nbsp;&nbsp;   :p fulanito Hola, Como estas?         <br> 
 • :u Muestra los usuarios que se encuentran conectados actualmente al chat. <br>
 • :smile Envía la carita feliz :) a los demás usuarios conectados. <br>
 • :angry Envía la carita enojada >:( a los demás usuarios conectados. <br>
