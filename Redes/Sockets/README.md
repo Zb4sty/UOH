@@ -7,6 +7,8 @@ así como consultar los artefactos que cada granjerx tiene. Este chat debe segui
 
 
 Guía de comandos implementados:
+• **:help or :h or :?** 
+  - Permite ver los comandos disponibles.
 
 • **:q** 
   - Permite que el usuario se desconecte del chat.
