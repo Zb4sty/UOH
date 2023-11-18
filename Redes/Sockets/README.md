@@ -5,6 +5,9 @@ mediante un servidor. Es quizá la aplicación más conocida de los sockets TCP/
 El objetivo de esta tarea es implementar un chat para granjeros de Stardew Fridi a través del cual, además de poder conversar, se puedan intercambiar artefactos coleccionables, 
 así como consultar los artefactos que cada granjero tiene. Este chat debe seguir la arquitectura cliente-servidor
 
+## Pasos para ejecutar la tarea
+1) Ejecute el servidor que está en el archivo main.py
+2) Para cada cliente ejecute client.py
 
 Guía de comandos implementados:
 • **:help or :h or :?** 
