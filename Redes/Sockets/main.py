@@ -241,6 +241,7 @@ def handle_client(client_socket):
                         sender.send(f'[SERVER] ¡Intercambio realizado con {clientes[receiver].nombre}!'.encode('utf-8'))
                         receiver.send(f'[SERVER] ¡Intercambio realizado con {clientes[sender].nombre}!'.encode('utf-8'))
                         print(f'Intercambio realizado con éxito entre {clientes[receiver].nombre} y {clientes[sender].nombre}')
+                        trade_system.pop(current_user.nombre)
 
                 except:
                     current_user.client_socket.send(f'[SERVER] No hay ofertas disponibles.'.encode('utf-8'))
