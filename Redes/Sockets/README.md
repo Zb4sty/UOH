@@ -38,7 +38,7 @@ Guía de comandos implementados:
   - Obtiene el nombre del artefacto identificado por ArtefactoId. Ejemplo, `:artefacto 22` es respondido por el servidor con Trocitos de cristal. (Esta información solo es visible para quien envía el comando.)
 
 • **:offer <Identificador> <MiArtefactoId> <SuArtefactoId>**
-  - Este comando inicia un intercambio con el usuario <Identificador>. A este usuario se le ofrece <MiArtefactoId> a cambio de <SuArtefactoId>. Ejemplo, `:offer Gus 32 12` equivale a querer intercambiar una Espuela prehistórica por el Disco raro de Gus
+  - Este comando inicia un intercambio con el usuario <Identificador>. A este usuario se le ofrece <MiArtefactoId> a cambio de <SuArtefactoId>. Ejemplo, `:offer Gus 32 12` equivale a querer intercambiar una Espuela prehistórica por el Disco raro de Gus
 
 • **:accept**
   - Acepta la oferta recibida y realiza el intercambio de artefactos, actualizando las listas de artefactos de cada usuario involucrado. En ambos chats se muestra ¡Intercambio realizado!
