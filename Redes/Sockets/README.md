@@ -1,4 +1,5 @@
 Tarea Realizada con : [Nicolas Araya](https://github.com/NicolasAraya932)
+
 Un chat online es un método de comunicación digital vía Internet que realiza intercambio de mensajes de forma instantánea, enviando mensajes de texto entre un emisor a un receptor, generalmente
 mediante un servidor. Es quizá la aplicación más conocida de los sockets TCP/IP.
 El objetivo de esta tarea es implementar un chat para granjeros de Stardew Fridi a través del cual, además de poder conversar, se puedan intercambiar artefactos coleccionables, 
