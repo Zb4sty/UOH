@@ -189,7 +189,7 @@ def main():
 
     try:
         client_socket.connect(("127.0.0.1", 12345))
-        #bienvenida()
+        bienvenida()
         acc_creation(client_socket)
 
         recibir_mensaje = threading.Thread(target=receive_messages, args=(client_socket,))
