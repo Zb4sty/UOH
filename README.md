@@ -27,6 +27,8 @@ Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en ca
 
 [Convolutional Neural Networks](https://github.com/Zb4sty/UOH/tree/main/Introducci%C3%B3n%20a%20la%20Inteligencia%20Artificial/Redes%20Neuronales%20Convolucionales)
 
+[Advanced Deep Learning](https://github.com/Zb4sty/UOH/tree/main/Introducci%C3%B3n%20a%20la%20Inteligencia%20Artificial/Advanced%20Deep%20Learning)
+
 ### Networks
 
 [Implementing and analyzing RIPv2 in GNS3 with Wireshark](https://github.com/Zb4sty/UOH/tree/main/Redes/Implementando%20y%20analizando%20RIPv2%20en%20GNS3)
