@@ -1,5 +1,5 @@
-Proyecto Realizado con : 
-
+## Integrantes 
+*[Bastián Rubio M.](https://github.com/Zb4sty)
 *[Cristian Herrera B.](https://github.com/Sphad7) 
 *[Cristóbal Lagos V.](https://github.com/X4ero26)
 
