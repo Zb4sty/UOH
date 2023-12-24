@@ -33,4 +33,4 @@ Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en ca
 
 [Sockets](https://github.com/Zb4sty/UOH/tree/main/Redes/Sockets)
 
-[Video Streaming on IP Networks]()
+[Video Streaming on IP Networks](https://github.com/Zb4sty/UOH/tree/main/Redes/ProyectoRedes)
