@@ -39,9 +39,9 @@ Al iniciar el entorno en GNS3 se nos debieron haber abierto nuestras maquinas vi
 
 A cada máquina virtual le asignamos las siguientes configuraciones:
 
-* Lubuntu:
+#### Lubuntu:
 [![Lubu.png](https://i.postimg.cc/g0rSPw7h/Lubu.png)](https://postimg.cc/QBGkQMhN)
-* Ubuntu:
+#### Ubuntu:
 [![Ubuntu.png](https://i.postimg.cc/0QwVbTP2/Ubuntu.png)](https://postimg.cc/tZ93cmsL)
 
 ## Transmisión del video
