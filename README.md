@@ -7,8 +7,6 @@ Este repositorio tiene como objetivo servir como recurso para las entregas de di
 
 Cualquier intento de copia por parte de terceros será exclusivamente responsabilidad de dichos terceros, teniendo en cuenta que GitHub es un sitio público donde cualquier persona puede acceder a repositorios públicos. Me desvinculo de cualquier problema futuro relacionado con este contexto y quiero dejar claro que no fomentaré de ninguna manera la copia del contenido.
 
-Cualquier consulta relacionada con el estudio de esta tarea, y únicamente de esta tarea, será atendida adecuadamente.
-
 Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en caso de que esté mal realizada, contenga errores o pueda optimizarse.
 
 ### Computer graphics
@@ -34,3 +32,5 @@ Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en ca
 [Implementing and analyzing RIPv2 in GNS3 with Wireshark](https://github.com/Zb4sty/UOH/tree/main/Redes/Implementando%20y%20analizando%20RIPv2%20en%20GNS3)
 
 [Sockets](https://github.com/Zb4sty/UOH/tree/main/Redes/Sockets)
+
+[Video Streaming on IP Networks]()
