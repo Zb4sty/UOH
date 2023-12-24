@@ -11,7 +11,7 @@ así como consultar los artefactos que cada granjero tiene. Este chat debe segui
 1) Ejecute el servidor que está en el archivo main.py
 2) Para cada cliente ejecute client.py
 
-## Guía de comandos implementados:
+## Guía de comandos implementados
 
 • **:help or :h or :?** 
   - Permite ver los comandos disponibles.
