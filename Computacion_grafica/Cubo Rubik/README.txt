@@ -1,4 +1,5 @@
-Funcionamiento: 
+## Funcionamiento: 
+
 Una vez ejecutes el juego deberás cliquear en la pantalla, luego para moverse entre los cubos deberás usar las flechas (Arriba, Abajo, Derecha, Izquierda),
 para mover los cubos deberás usar las teclas A(izquierda), D(Derecha) para poder las filas del cubo seleccionado y para mover las columnas deberás usar las teclas W(Arriba), S(Abajo)
 
