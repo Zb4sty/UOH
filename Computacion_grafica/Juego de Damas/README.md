@@ -15,9 +15,8 @@ Se solicita implementar una GUI que permita visualizar e implementar parcialment
 * Reiniciar el juego con un botón.
 
 ## Reglas
-Todos los movimientos de piezas deben cumplir las siguientes reglas (1.5 ptos.):
-* Solo se permiten movimientos hacia adelante (respecto del jugador) y hacia una diagonal derecha o izquierda
-* Los movimientos solo se permiten, dentro de los límites del tablero, si no hay una pieza del mismo jugador en la nueva posición. Si hay una pieza del otro jugador en la nueva posición, se podrá saltar sobre ella para llegar a la posición siguiente a ésta. Este proceso se puede repetir tantas veces como
-piezas hayan en el camino (diagonales), eliminando en este proceso las piezas del otro jugador.
+Todos los movimientos de piezas deben cumplir las siguientes reglas:
+* Solo se permiten movimientos hacia adelante (respecto del jugador) y hacia una diagonal derecha o izquierda.
+* Los movimientos solo se permiten, dentro de los límites del tablero, si no hay una pieza del mismo jugador en la nueva posición. Si hay una pieza del otro jugador en la nueva posición, se podrá saltar sobre ella para llegar a la posición siguiente a ésta. Este proceso se puede repetir tantas veces como piezas hayan en el camino (diagonales), eliminando en este proceso las piezas del otro jugador.
 
 
