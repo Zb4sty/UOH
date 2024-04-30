@@ -9,14 +9,6 @@ Cualquier intento de copia por parte de terceros será exclusivamente responsabi
 
 Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en caso de que esté mal realizada, contenga errores o pueda optimizarse.
 
-### Computer graphics
-
-[Rubik cube](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Cubo%20Rubik)
-
-[Checkers](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Juego%20de%20Damas)
-
-[Facial recognition](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Sistema%20de%20Reconocimiento%20facial)
-
 ### Artificial Intelligence
 
 [Clustering and Dimensionality Reduction](https://github.com/Zb4sty/UOH/tree/main/Introducci%C3%B3n%20a%20la%20Inteligencia%20Artificial/Clustering%20%26%20Reducci%C3%B3n%20de%20Dimensionalidad)
@@ -27,6 +19,12 @@ Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en ca
 
 [Advanced Deep Learning](https://github.com/Zb4sty/UOH/tree/main/Introducci%C3%B3n%20a%20la%20Inteligencia%20Artificial/Advanced%20Deep%20Learning)
 
+### Robotics
+
+[Learning to See](https://github.com/Zb4sty/UOH/tree/main/Robotica/Aprendiendo%20a%20Ver)
+
+[Learning to detect lines and eliminate distortion](https://github.com/Zb4sty/UOH/tree/main/Robotica/Aprendiendo%20a%20detectar%20l%C3%ADneas%20y%20eliminar%20distorsi%C3%B3n)
+
 ### Networks
 
 [Implementing and analyzing RIPv2 in GNS3 with Wireshark](https://github.com/Zb4sty/UOH/tree/main/Redes/Implementando%20y%20analizando%20RIPv2%20en%20GNS3)
@@ -34,3 +32,11 @@ Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en ca
 [Sockets](https://github.com/Zb4sty/UOH/tree/main/Redes/Sockets)
 
 [Video Streaming on IP Networks](https://github.com/Zb4sty/UOH/tree/main/Redes/ProyectoRedes)
+
+### Computer graphics
+
+[Rubik cube](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Cubo%20Rubik)
+
+[Checkers](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Juego%20de%20Damas)
+
+[Facial recognition](https://github.com/Zb4sty/UOH/tree/main/Computacion_grafica/Sistema%20de%20Reconocimiento%20facial)
