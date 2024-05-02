@@ -23,7 +23,7 @@ Asimismo, se agradecen los comentarios y sugerencias para mejorar la tarea en ca
 
 [Learning to See](https://github.com/Zb4sty/UOH/tree/main/Robotica/Aprendiendo%20a%20Ver)
 
-[Learning to detect lines and eliminate distortion](https://github.com/Zb4sty/UOH/tree/main/Robotica/Aprendiendo%20a%20detectar%20l%C3%ADneas%20y%20eliminar%20distorsi%C3%B3n)
+[Learning to detect lines and eliminate distortion](https://github.com/Zb4sty/UOH/tree/main/Robotica/Aprendiendo_a_detectar_l%C3%ADneas_y_eliminar_distorsi%C3%B3n)
 
 ### Networks
 
